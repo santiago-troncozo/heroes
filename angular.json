@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spa-heroes"
+    }
+  },
+  "defaultProject": "spa-heroes",
+  "cli": {
+    "analytics": false
+  }
 }
