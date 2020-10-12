@@ -4,4 +4,5 @@ export interface Hero {
     img: string;
     aparicion: string;
     casa: string;
+    id?: number;
   }
